@@ -1,0 +1,5 @@
+mosatufaa@gmila.com,cars,1000.0
+tata@gmail.com,test,5.9870234598E10
+tata@gmail.com,test2,4.5803458E7
+tata@gmail.com,jjh,888.0
+ramly@gmail.com,name,9080980.0

@@ -1,0 +1,3 @@
+tata@gmail.com,name,98700987098,0
+tata@gmail.com,nn,79807987,880
+ramly@gmail.com,name,888,89
