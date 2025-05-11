@@ -7,7 +7,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.List;
 
-
 public class BudgetApp {
     private static final String USERS_FILE = "users.txt";
     private static final String INCOME_FILE = "income.txt";
@@ -1241,5 +1240,4 @@ public class BudgetApp {
         }
     }
 
-    
 }
