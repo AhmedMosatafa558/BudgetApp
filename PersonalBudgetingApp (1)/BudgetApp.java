@@ -21,7 +21,7 @@ public class BudgetApp {
     public static void main(String[] args) {
         showWelcomeScreen();
     }
-
+// com   
     private static void showWelcomeScreen() {
         JFrame frame = new JFrame("Personal Budgeting App");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
